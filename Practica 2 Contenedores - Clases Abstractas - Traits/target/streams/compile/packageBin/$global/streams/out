@@ -1,0 +1,83 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/abstractas-y-traits_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas/prueba1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas/prueba2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas/prueba1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/EmpaquePlastico.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/ComidaRapida/EmpaquePlastico.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Listas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Listas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/ComidaRapida[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos2/TortugaVoladora.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos2/TortugaVoladora.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos2/Tortuga.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos2/Tortuga.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas/prueba2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Producto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Producto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Mapas$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Mapas$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Sets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Sets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas/prueba1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Mapas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Mapas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Alimentos.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/ComidaRapida/Alimentos.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos2/Hongo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos2/Hongo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos2/AccionesAire.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos2/AccionesAire.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos2/Enemigo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos2/Enemigo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos2/AccionesAgua.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos2/AccionesAgua.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas/prueba2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/InsumoCocina.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/ComidaRapida/InsumoCocina.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos/Tortuga.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos/Tortuga.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Papas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/ComidaRapida/Papas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Tupple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Tupple$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos2/Fantasma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos2/Fantasma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Tupple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Tupple.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Hamburguesa.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/ComidaRapida/Hamburguesa.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas/prueba3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas/prueba3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos/Enemigo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos/Enemigo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Sets$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Sets$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Pruebas[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Caja.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/ComidaRapida/Caja.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Producto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Enemigos/Hongo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Enemigos/Hongo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Colecciones/Listas$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/Colecciones/Listas$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Bebida.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/target/scala-2.12/classes/ComidaRapida/Bebida.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

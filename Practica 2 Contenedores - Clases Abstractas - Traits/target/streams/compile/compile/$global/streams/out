@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/src/main/scala/Pruebas/prueba2.scala:4:24: not found: type Tortuga[0m
+[0m[[0m[31merror[0m] [0m[0m        var tortuga1 : Tortuga = new Tortuga[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/src/main/scala/Pruebas/prueba2.scala:4:38: not found: type Tortuga[0m
+[0m[[0m[31merror[0m] [0m[0m        var tortuga1 : Tortuga = new Tortuga[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/src/main/scala/Pruebas/prueba2.scala:9:24: not found: type Fantasma[0m
+[0m[[0m[31merror[0m] [0m[0m        var fantasma : Fantasma = new Fantasma(34)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/src/main/scala/Pruebas/prueba2.scala:9:39: not found: type Fantasma[0m
+[0m[[0m[31merror[0m] [0m[0m        var fantasma : Fantasma = new Fantasma(34)[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/src/main/scala/Pruebas/prueba2.scala:14:31: not found: type TortugaVoladora[0m
+[0m[[0m[31merror[0m] [0m[0m        var tortugaVoladora : TortugaVoladora = new TortugaVoladora[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 2 Contenedores - Clases Abstractas - Traits/src/main/scala/Pruebas/prueba2.scala:14:53: not found: type TortugaVoladora[0m
+[0m[[0m[31merror[0m] [0m[0m        var tortugaVoladora : TortugaVoladora = new TortugaVoladora[0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

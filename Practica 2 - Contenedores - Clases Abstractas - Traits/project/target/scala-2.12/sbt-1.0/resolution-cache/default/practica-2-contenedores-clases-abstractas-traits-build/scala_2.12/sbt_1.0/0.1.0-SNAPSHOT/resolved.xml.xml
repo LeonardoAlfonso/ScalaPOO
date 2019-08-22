@@ -4,7 +4,7 @@
 		module="practica-2-contenedores-clases-abstractas-traits-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190809042242"
+		publication="20190809093502"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

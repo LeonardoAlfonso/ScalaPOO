@@ -9,13 +9,13 @@ object Listas
         
         //println(listaCarnes) //Impresión 
         
-        /*listaCarnes.foreach{
-             e=>
-              {
-                  println(e.nombreProducto)
-              }
-        }*/
-        this.iterar(listaCarnes)
+        // listaCarnes.foreach{
+        //      e=>
+        //       {
+        //           println(e.nombreProducto)
+        //       }
+        // }
+    //this.iterar(listaCarnes)
         
         //Por medio de concetenación
         val cebolla : Producto = new Producto("Cebolla", 500)
@@ -23,18 +23,18 @@ object Listas
         val listaVerduras : List[Producto] = cebolla :: brocoli :: Nil
         //println(listaVerduras.apply(0).nombreProducto)
         
-        //Doble concatenación
-        val mercadoPlaza : List[Producto] = listaCarnes ::: listaVerduras
-        
-        //Fill
-        val arroz : Producto = new Producto("Arroz", 2000)
-        val mercadoTienda : List[Producto] =  List.fill(3)(arroz)
-             
-        //Tabulate
+//         //Doble concatenación
+         //val mercadoPlaza : List[Producto] = listaCarnes ::: listaVerduras
+        //this.iterar(mercadoPlaza)
+//         //Fill
+        // val arroz : Producto = new Producto("Arroz", 2000)
+        // val mercadoTienda : List[Producto] =  List.fill(3)(arroz)
+       //this.iterar(mercadoTienda)  
+//         //Tabulate
         val raicesCuadradas = List.tabulate(6)(n => n * n)
-        //println( "Raices Cuadradadas : " + raicesCuadradas  )
+        println( "Raices Cuadradadas : " + raicesCuadradas  )
+//   }
   }
-  
   def iterar(list : List[Producto]) : Unit = 
         {
             var iterator : Iterator[Producto] = list.iterator

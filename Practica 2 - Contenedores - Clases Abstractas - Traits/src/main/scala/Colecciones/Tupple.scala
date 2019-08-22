@@ -12,7 +12,7 @@ object Tupple {
     
         //Inicialización
         val referencias = new Tuple3(1, cebolla, 55)
-        println(referencias)
+        //println(referencias)
 
         referencias.productIterator.foreach{ p =>println("Value = " + p )}
         

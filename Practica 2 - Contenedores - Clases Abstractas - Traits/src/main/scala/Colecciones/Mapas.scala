@@ -17,12 +17,13 @@ object Mapas {
      //println(listado1)
      //println(listado1.get("Cebolla"))
      //listado1 = listado1.-("Arroz")
+     //this.iterar(listado1)
      //listado1 -= ("Arroz")
      //println(listado1)
      //println(listado1.isEmpty)
-     /*println(listado1.contains("Cebolla"))
-     var listado2 = Map("Cebolla" -> cebolla, "Arroz" -> arroz, "Carne" -> carne)
-     this.iterar(listado2)  */
+     //println(listado1.contains("Cebolla"))
+     //var listado2 = Map("Cebolla" -> cebolla, "Arroz" -> arroz, "Carne" -> carne)
+     //this.iterar(listado2)  
 
      var listado2 = Map("Cebolla" -> cebolla, "Arroz" -> arroz, "Carne" -> carne)
      //listado2 = listado1.++(listado2)

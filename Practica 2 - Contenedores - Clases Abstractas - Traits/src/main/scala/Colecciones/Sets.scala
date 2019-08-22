@@ -17,7 +17,7 @@ object Sets {
         val productos2 : Set[String] = Set("arroz", "manzana", "pera", "arroz")
         var productos3 : Set[Producto] = Set(cebolla, brocoli, arroz)
         var productos4 : Set[Producto] = Set(cebolla, brocoli, arroz, cebolla)
-        this.iterar(productos4)
+        //this.iterar(productos4)
         /*println(productos)
         println(productos2)
         println(productos3)
@@ -25,15 +25,18 @@ object Sets {
         
       //Elementos
         var productos5 : Set[Producto] = Set(carne, pescado, pollo)
-        //println(productos5)
-        productos5 =  productos5 + arroz //.+()
-        //println(productos5)
-        productos5 = productos5.-(pescado)
-        //println(productos5)
+        // //println(productos5)
+        //productos5 =  productos5 + arroz //.+()
+        //
+        // //println(productos5)
+        //productos5 = productos5.-(pescado)
+        // //println(productos5)
+        
   
         
         var productos6 : Set[Producto] = productos5 ++ productos4
         //println(productos6)
+        this.iterar(productos6)
     }
     
         def iterar(set : Set[Producto]) : Unit = 

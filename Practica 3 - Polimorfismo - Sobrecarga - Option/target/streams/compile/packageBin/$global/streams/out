@@ -1,29 +1,13 @@
-[0m[[0m[0minfo[0m] [0m[0mPackaging /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/practica-3-polimorfismo-sobrecarga-option_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/polimorfismo_2.12-1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/empty.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/empty.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo1/Imagen.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo1/Imagen.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo2/Hierba.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo2/Hierba.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching2.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/patternMatching2.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/Mapa.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/Mapa.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/MapaNull$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/MapaNull$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/patternMatching$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/interfaz$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/interfaz$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Hamburguesa.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/ComidaRapida/Hamburguesa.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/MapaNull.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/MapaNull.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/empty$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/empty$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getOrElse$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/getOrElse$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo2/Fuego.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo2/Fuego.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/InsumoCocina.class[0m
@@ -40,34 +24,20 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba4.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba4.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getterOption.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/getterOption.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Alimentos.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/ComidaRapida/Alimentos.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/MapaNull$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/MapaNull$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getOrElse$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/getOrElse$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo1[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo1[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba1$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba5$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba5$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	SobrecargaOperadores/Complejo.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/SobrecargaOperadores/Complejo.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	SobrecargaOperadores[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/SobrecargaOperadores[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/patternMatching.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Papas.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/ComidaRapida/Papas.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getterOption$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/getterOption$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo1/Camara.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo1/Camara.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/patternMatching$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Bebida.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/ComidaRapida/Bebida.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/EmpaquePlastico.class[0m
@@ -78,6 +48,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo1/PdfViewer.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/interfaz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/interfaz.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo1/Documento.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo1/Documento.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba4$delayedInit$body.class[0m
@@ -86,28 +58,18 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba2$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getOrElse.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/getOrElse.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo1/Impresora.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo1/Impresora.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo2/Agua.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo2/Agua.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polimorfismo2/Enemigo.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Polimorfismo2/Enemigo.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching2$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/patternMatching2$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching2$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/patternMatching2$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getterOption$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/getterOption$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/interfaz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/interfaz$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/ComidaRapida[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba1$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba1$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/Pais.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Ejemplos/Pais.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Pruebas/prueba5.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/Pruebas/prueba5.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ComidaRapida/Caja.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/target/scala-2.12/classes/ComidaRapida/Caja.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,28 +1,39 @@
 package ComidaRapida
 
-abstract class Alimentos extends InsumoCocina
+import scala.util.Random
+import scala.util.Try
+import scala.util.Failure
+
+abstract class Alimentos extends InsumoCocina with Serializable
 {
     //Atributos
       protected var _sabor: String  
       protected var _tamano : Double 
-      protected var _porcentajeConsumido : Double 
-      protected var _tipo : String
+      protected var _tipo : String      
       
     //Métodos
         //Getters
         def sabor = _sabor
         def tamano = _tamano
-        def porcentajeConsumido = _porcentajeConsumido
         def tipo = _tipo
         
         //Setters
-        def sabor_(saborAlimento : String) = _sabor = saborAlimento
-        def tamano(tamanoAlimento : Double) = _tamano = tamanoAlimento
-        
-        //Acciones
-        def consumirAlimentos(mordiscos : Int) : Double = 
+        def sabor_(saborAlimento : String) : Try[Unit] =
+        { 
+            var resultado : Try[Unit] = null
+
+            if (!saborAlimento.isEmpty)
+            {
+                resultado = Try(_sabor = saborAlimento)
+            }
+            else
+            {
+                resultado = Failure(new Exception())
+            }
+            return resultado
+        }
+        def tamano_(nuevoTamano : String) : Try[Unit] = 
         {
-            _porcentajeConsumido = _tamano - (mordiscos/100)
-            return _porcentajeConsumido
+            Try(_tamano = nuevoTamano.toDouble)
         }
 }

@@ -1,12 +1,14 @@
 package ComidaRapida
 
+import scala.util.Try
+
 class EmpaquePlastico extends InsumoCocina
 {
      //Atributos  
       var _costo = 500
       
     //Métodos
-      def getCosto() : Double =
+      def getCostoProducto() : Double =
       {
           return _costo
       }

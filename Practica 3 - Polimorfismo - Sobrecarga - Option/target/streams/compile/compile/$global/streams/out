@@ -1,7 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/src/main/scala/Ejemplos/pais.scala:23:18: value nombrePais is not a member of Ejemplos.Pais[0m
-[0m[[0m[31merror[0m] [0m[0m    println(pais.nombrePais)[0m
-[0m[[0m[31merror[0m] [0m[0m                 ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 3 - Polimorfismo - Sobrecarga - Option/src/main/scala/Ejemplos/pais.scala:25:18: value nombrePais is not a member of Ejemplos.Pais[0m
-[0m[[0m[31merror[0m] [0m[0m    println(pais.nombrePais)[0m
-[0m[[0m[31merror[0m] [0m[0m                 ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 5 deprecation warnings (since 2.11.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

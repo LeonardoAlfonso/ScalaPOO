@@ -1,14 +1,14 @@
 package ComidaRapida
 
-class Papas (tamano: Double) extends Alimentos
+import scala.util.Try
+
+class Papas extends Alimentos
 {
       //Atributos
-      var _sabor = "Saladas"
-      var _tamano = tamano
-      var _porcentajeConsumido  = 0
-      var _costo = 4000
+      var _sabor = ""
+      var _tamano = 0.0d
+      var _costo = 0.0d
       var _tipo = "Papas"
-      private var _salsas = new Array[String](3)
       private var _tieneQueso : Boolean = false
       
       //Métodos
@@ -19,8 +19,10 @@ class Papas (tamano: Double) extends Alimentos
         def tieneQueso_() = _tieneQueso = !_tieneQueso
         
         //Acciones
-        def getCosto() : Double =
+        def getCostoProducto() : Double =
         {
-            return _costo * _tamano 
+            var costoTotal : Double = _costo * _tamano
+            costoTotal = if (_tieneQueso) costoTotal + 500 else costoTotal
+            return costoTotal
         }
 }

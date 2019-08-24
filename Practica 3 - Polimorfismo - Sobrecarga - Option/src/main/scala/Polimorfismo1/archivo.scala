@@ -5,7 +5,7 @@ abstract class Archivo
     //Atributos
     protected var _peso : Double //Abstracto
     protected var _extension : String //Abstracto
-    protected var _contenido : String = _ //Abstracto
+    protected var _contenido : String = _ 
 
     //Métodos
     //Getters

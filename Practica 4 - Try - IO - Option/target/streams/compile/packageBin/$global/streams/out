@@ -1,0 +1,99 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/option-try-io-files-serialization_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/consoleIOTry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/consoleIOTry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIOSerealizableCollect3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIOSerealizableCollect3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/MapaNull$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/MapaNull$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryJava$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryJava$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryScalaFunctions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryScalaFunctions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIOSerealizableCollect2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIOSerealizableCollect2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/Pais.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/Pais.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryScalaFunctions$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryScalaFunctions$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/optionList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/optionList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIOSerealizable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIOSerealizable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/MapaNull$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/MapaNull$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIOSerealizableCollect2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIOSerealizableCollect2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getOrElse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/getOrElse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/Mapa.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/Mapa.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/patternMatching$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getterOption.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/getterOption.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/empty.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/optionList$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/optionList$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryScala$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryScala$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getOrElse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/getOrElse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryScala.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryScala.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/patternMatching2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryScala$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryScala$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/consoleIOTry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/consoleIOTry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/patternMatching.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/consoleIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/consoleIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getterOption$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/getterOption$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/patternMatching2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/MapaNull.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/MapaNull.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIOSerealizableCollect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIOSerealizableCollect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIOSerealizableCollect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIOSerealizableCollect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/patternMatching$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getterOption$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/getterOption$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/empty$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIOSerealizableCollect3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIOSerealizableCollect3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryScalaFunctions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryScalaFunctions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/getOrElse$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/getOrElse$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIO$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIO$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryJava$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryJava$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/optionList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/optionList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/consoleIOTry$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/consoleIOTry$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/fileIOSerealizable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/fileIOSerealizable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/patternMatching2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/patternMatching2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/tryJava.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/tryJava.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/consoleIO$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/consoleIO$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ejemplos/consoleIO$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 4 - Try - IO - Option/target/scala-2.12/classes/Ejemplos/consoleIO$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

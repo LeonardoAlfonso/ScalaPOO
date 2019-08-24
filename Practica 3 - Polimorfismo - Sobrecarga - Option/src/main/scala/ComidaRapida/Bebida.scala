@@ -1,21 +1,30 @@
 package ComidaRapida
 
-class Bebida(sabor: String, tamano: Double) extends Alimentos
+import scala.util.Try
+
+class Bebida extends Alimentos
 {
       //Atributos
-      var _sabor = sabor
-      var _tamano = tamano
-      var _porcentajeConsumido = 0
-      var _costo = 5000
+      var _sabor = ""
+      var _tamano = 0.0d
+      var _costo = 0.0d
       var _tipo = "Bebida"
-      private var _temperatura = sabor
+      private var _temperatura : Double = _
+
+      //Constructores      
       
       //Métodos
         //Getters
         def temperatura = _temperatura
+
+        //Setters
+        def temperatura_(nuevaTemperatura : String) : Try[Unit] = 
+        {
+            Try(_temperatura = nuevaTemperatura.toDouble)
+        }
         
         //Acciones
-        def getCosto() : Double =
+        def getCostoProducto() : Double =
         {
             return _costo * _tamano 
         }

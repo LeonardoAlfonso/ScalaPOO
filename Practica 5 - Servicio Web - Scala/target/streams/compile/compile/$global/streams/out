@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 5 - Servicio Web - Scala/src/main/scala/Server3/server.scala:9:48: not found: type JsonSupport[0m
+[0m[[0m[31merror[0m] [0m[0mobject Server extends App with Directives with JsonSupport{[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 5 - Servicio Web - Scala/src/main/scala/Server3/server.scala:23:27: not found: type Person[0m
+[0m[[0m[31merror[0m] [0m[0m                entity(as[Person]) { persona =>[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

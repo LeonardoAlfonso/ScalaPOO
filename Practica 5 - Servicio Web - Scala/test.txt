@@ -1,0 +1,18 @@
+#Prueba ruta GET
+GET http://0.0.0.0:8002/test
+
+#Prueba ruta POST
+POST http://0.0.0.0:8002/test
+
+#######
+#Prueba ruta GET
+GET http://0.0.0.0:8002/test/hola/1
+
+#Prueba ruta POST
+POST http://0.0.0.0:8002/test
+Content-Type: application/json
+
+{
+    "name": "Leonardo",
+    "favoriteNumber": 10
+}

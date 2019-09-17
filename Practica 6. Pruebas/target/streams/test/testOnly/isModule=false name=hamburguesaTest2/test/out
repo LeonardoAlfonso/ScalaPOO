@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mhamburguesaTest2:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCreacion Hamburguesa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Precio Inicial debe ser 3000[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Al agregar un ingrediente debe costar 5000 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  5000.0 did not equal 3000 (hamburguesaTest2.scala:19)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Debe tener 1 ingrediente *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List() had size 0 instead of expected size 1 (hamburguesaTest2.scala:24)[0m[0m

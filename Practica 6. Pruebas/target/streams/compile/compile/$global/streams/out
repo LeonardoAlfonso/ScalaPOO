@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 6. Pruebas/src/main/scala/main.scala:3:2: not found: value hamburguesa[0m
+[0m[[0m[31merror[0m] [0m[0m hamburguesa.agregarIngrediente("pollo")[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

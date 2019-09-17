@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Practica 6. Pruebas/src/test/scala/hamburguesaTest.scala:9:48: Decimal integer literals may not have a leading zero. (Octal syntax is obsolete.)[0m
+[0m[[0m[31merror[0m] [0m[0m        assert(hamburguesa.calcularPrecio() == 000)[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,25 @@
+compile
+test
+compile
+run
+test
+clear
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+test hamburguesaTest
+test /hamburguesaTest
+test "hamburguesaTest"
+testOnly "hamburguesaTest"
+testOnly hamburguesaTest
+testOnly 
+test-only 
+compile
+test
+compile
+test

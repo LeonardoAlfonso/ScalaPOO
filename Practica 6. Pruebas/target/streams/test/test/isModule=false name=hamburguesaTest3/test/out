@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mhamburguesaTest3:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCreacion Hamburguesa[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m+ Given una nueva a [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m+ When Se agrega un ingrediente [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m+ Then the topping count should be incremented [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m+ And the topping should be what was added [0m[0m

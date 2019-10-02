@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mHamburguesaTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Agregar $10000 de saldo a la cuenta de ahorros[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Verificar que la cuenta de ahorros inicie exención del 4xMil[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Verificar que se pueda habilitar la exención del 4xMil[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Agregar $5000 de saldo a la cuenta corriente[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Verificar que la cuenta corriente empiece sin sobregiro[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Verificar que la cuenta de ahorros no tiene sobregiro si no tiene aprobado el sobregiro[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Verificar que no se pueda asignar cupo si el sobregiro no ha sido aprobado[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Verificar que la cuenta de ahorros cambie el sobregiro correctamente[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Verificar que se pueda asignar cupo si el sobregiro ha sido aprobado[0m[0m

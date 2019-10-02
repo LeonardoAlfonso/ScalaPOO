@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/src/main/scala/InterfaceSegregation/BadWay/PasajeroVIP.scala:22:17: not found: value y[0m
+[0m[[0m[31merror[0m] [0m[0m        var x = y[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

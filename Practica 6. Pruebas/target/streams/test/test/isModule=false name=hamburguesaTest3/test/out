@@ -1,6 +1,15 @@
 [0m[[0m[0minfo[0m] [0m[0m[32mhamburguesaTest3:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mCreacion Hamburguesa[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m+ Given una nueva a [0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m+ When Se agrega un ingrediente [0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m+ Then the topping count should be incremented [0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m+ And the topping should be what was added [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFeature: Creación de Hamburguesa con diferentes ingredientes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Se creará una hamburguesa con precio base de 3000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Scenario: Hamburguesa comn 2 ingredientes *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List("pollo", "lechuga") had size 2 instead of expected size 1 (hamburguesaTest3.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Given Una nueva Hamburguesa [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    When Se agregan 2 ingredientes [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Then El precio final es de 7000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    And La cantidad de ingredientes es igual a 2 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Scenario: El precio calculado es correcto *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected 2, but got 1 (hamburguesaTest3.scala:34)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Given Una nueva Hamburguesa de 3000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    When Se agregan 2 ingredientes [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Then El precio final es de 5000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    And La cantidad de ingredientes es igual a 1 [0m[0m

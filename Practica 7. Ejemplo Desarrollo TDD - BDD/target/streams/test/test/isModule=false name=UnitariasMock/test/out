@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mUnitariasMock:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- test login service *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  service.test() was false (UnitariasMock.scala:14)[0m[0m

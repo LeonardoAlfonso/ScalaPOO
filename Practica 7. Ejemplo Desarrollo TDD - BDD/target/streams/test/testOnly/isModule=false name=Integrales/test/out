@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mIntegrales:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFeature: Entregar cheque[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Con una cuenta corriente sin saldo[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dada una cuenta corriente con saldo 30000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se solicita un cheque con 50000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then No se aprueba el cheque [0m[0m

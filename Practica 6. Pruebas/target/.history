@@ -23,3 +23,20 @@ compile
 test
 compile
 test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test-only HamburguesaTests
+test-only "HamburguesaTests"
+testOnly "HamburguesaTests"
+testOnly HamburguesaTests

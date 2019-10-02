@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mHamburguesaTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- El precio de la Hamburguesa debe ser 3000 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  3000.0 did not equal 4000 (hamburguesaTest.scala:9)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Al agregar un ingrediente debe ser 5000[0m[0m

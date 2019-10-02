@@ -1,0 +1,47 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/principios-solid_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiskovSubstitution[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/LiskovSubstitution[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiskovSubstitution/BadWay/TrabajadorRobot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/LiskovSubstitution/BadWay/TrabajadorRobot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingleResponsability/Servicios[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/SingleResponsability/Servicios[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiskovSubstitution/BadWay/TrabajadorHumano.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/LiskovSubstitution/BadWay/TrabajadorHumano.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenClose/GoodWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/OpenClose/GoodWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenClose/BadWay/Cliente.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/OpenClose/BadWay/Cliente.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiskovSubstitution/BadWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/LiskovSubstitution/BadWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenClose[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/OpenClose[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenClose/GoodWay/ClienteVIP.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/OpenClose/GoodWay/ClienteVIP.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingleResponsability/GoodWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/SingleResponsability/GoodWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LiskovSubstitution/BadWay/Trabajador.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/LiskovSubstitution/BadWay/Trabajador.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenClose/GoodWay/Cliente.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/OpenClose/GoodWay/Cliente.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingleResponsability/BadWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/SingleResponsability/BadWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenClose/BadWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/OpenClose/BadWay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingleResponsability/BadWay/Libro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/SingleResponsability/BadWay/Libro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OpenClose/GoodWay/ClienteEstandar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/OpenClose/GoodWay/ClienteEstandar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingleResponsability[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/SingleResponsability[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingleResponsability/GoodWay/Libro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/SingleResponsability/GoodWay/Libro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SingleResponsability/Servicios/ServicioLibros.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/SingleResponsability/Servicios/ServicioLibros.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Solid/target/scala-2.12/classes/main$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestBuilder:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFeature: Crear empleados[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Crear un empleado de tipo Auxiliar Contable[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dado un creador de empleados con Auxiliar contable [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se asigna el tipo de empleado y los datos del empleado [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then El empleado creado debe tener un sueldo de 1500000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    And Y el empleado creado debe tener un plan de salud básico [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Crear un empleado de tipo Desarrollador[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dado un creador de empleados con Desarrollador [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se asigna el tipo de empleado y los datos del empleado [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then El empleado creado debe tener un sueldo de 200000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    And Y el empleado creado debe tener un plan de salud Intermedio [0m[0m

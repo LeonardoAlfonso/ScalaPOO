@@ -1,0 +1,77 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/patrones-i_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder/Desarrollador.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder/Desarrollador.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder/AuxiliarContable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder/AuxiliarContable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator/CarroDecorator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator/CarroDecorator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder/EmpleadoBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder/EmpleadoBuilder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer/ObserverPatterns$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer/ObserverPatterns$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strategy/YenEuro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Strategy/YenEuro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strategy/PesoDolar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Strategy/PesoDolar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder/Direccion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder/Direccion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator/Mazda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator/Mazda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer/GestionAlarma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer/GestionAlarma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder/PlanSalud.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder/PlanSalud.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	singleton[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/singleton[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator/VentanaPolarizada.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator/VentanaPolarizada.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator/CajaCambiosAuto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator/CajaCambiosAuto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strategy/DolarPeso.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Strategy/DolarPeso.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strategy/CasaCambioContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Strategy/CasaCambioContext.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strategy/ICambioMoneda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Strategy/ICambioMoneda.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	singleton/DataBaseJava.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/singleton/DataBaseJava.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Strategy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Strategy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder/Director.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder/Director.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer/IObserverAlarma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer/IObserverAlarma.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer/ObserverPatterns.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer/ObserverPatterns.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer/Policia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer/Policia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder/Empleado.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder/Empleado.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer/ObserverPatterns$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer/ObserverPatterns$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator/Audi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator/Audi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator/AbstractCarro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator/AbstractCarro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	singleton/DataBaseScala.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/singleton/DataBaseScala.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder/Email.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder/Email.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer/LucesEmergencia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer/LucesEmergencia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Observer/AlarmaSonora.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Observer/AlarmaSonora.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator/VentanaElectrica.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator/VentanaElectrica.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Decorator/CamaraReversa.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Decorator/CamaraReversa.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	singleton/DataBaseScala$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/singleton/DataBaseScala$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Builder[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/target/scala-2.12/classes/Builder[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestDecorator:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFeature: Crear carros con Vidrios Polarizados[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Scenario: Con un carro Mazda *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  20700.0 did not equal 27000 (TestDecorator.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Given Dado un carro Mazda [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    When Se le agregan los vidrios polarizados [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Then El costo del carro es 27000 dolares [0m[0m

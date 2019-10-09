@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestSingleton:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFeature: Probar la base de datos Java[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Java[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dada una Base de datos de Java [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se crea una nueva base de datos java con otros datos [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then El driver de la Base de Datos 1 es mysql [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    And El driver de la Base de Datos 2 es mysql [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Scala[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dada una Base de datos de Scala [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When  [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then El driver de la Base de Datos 1 es mysql [0m[0m

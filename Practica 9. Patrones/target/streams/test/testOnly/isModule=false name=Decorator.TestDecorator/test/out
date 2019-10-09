@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestDecorator:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFeature: Crear carros con Vidrios Polarizados[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Con un carro Mazda[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dado un carro Mazda [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se le agregan los vidrios polarizados [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then El costo del carro es 27000 dolares [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Con un carro Audi[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dado un carro Audi [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se le agregan los vidrios polarizados [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then El costo del carro es 50700 dolares [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFeature: Crear carros con los 4 accesorios[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Con un carro Mazda[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dado un carro Mazda [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se le agregan todos los accesorios y adicionales [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then El costo del carro es 30350 dolares [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Con un carro Audi[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dado un carro Mazda [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se le agregan todos los accesorios y adicionales [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then El costo del carro es 53350 dolares [0m[0m

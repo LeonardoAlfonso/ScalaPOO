@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/src/main/scala/Observer/AlarmaSonora.scala:3:20: ';' expected but ':' found.[0m
+[0m[[0m[31merror[0m] [0m[0mclass AlarmaSonora : IObserverAlarma[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/src/main/scala/Observer/AlarmaSonora.scala:4:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m{[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/src/main/scala/Observer/LucesEmergencia.scala:3:23: ';' expected but ':' found.[0m
+[0m[[0m[31merror[0m] [0m[0mclass LucesEmergencia : IObserverAlarma[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/src/main/scala/Observer/LucesEmergencia.scala:4:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m{[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/src/main/scala/Observer/Policia.scala:3:15: ';' expected but ':' found.[0m
+[0m[[0m[31merror[0m] [0m[0mclass Policia : IObserverAlarma[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/leonardo/Documentos/Clases/Clases 2019-2/POO/Scala/Patrones I/src/main/scala/Observer/Policia.scala:4:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m{[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

@@ -1,0 +1,29 @@
+compile
+testOnly TestDecorator
+test
+testOnly TestDecorator
+testOnly "TestDecorator"
+testOnly
+}compile
+compile
+[
+compile
+testOnly TestBuilder
+testOnly Builder.TestBuilder
+compile
+testOnly Strategy.TestStrategy
+testOnly Builder.TestBuilder
+compile
+run
+compile
+run
+compile
+run
+compile
+testOnly singleton.TestSingleton
+compile
+testOnly singleton.TestObserver
+compile
+run
+testOnly Strategy.TestStrategy
+run

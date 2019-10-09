@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestStrategy:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFeature: Realizar cambios de monedas exitosos[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Scenario: Peso a Dolar *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  2.6315789473684212 did not equal 2.631 (TestStrategy.scala:23)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Given Dado 10000 pesos [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    When Se escoge el tipo de cambio de Peso a Dolar [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Then La transformación de la moneda debe ser igual a 2.631 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Scenario: Dolar a Peso[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Given Dado 5000 dolares [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    When Se escoge el tipo de cambio de Peso a Dolar [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    Then La transformación de la moneda debe ser igual a 19000000 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Scenario: Yen a Euro *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  1058823.5294117646 did not equal 1058823 (TestStrategy.scala:51)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Given Dado 9000 Yenes [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    When Se escoge el tipo de cambio de Peso a Dolar [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    Then La transformación de la moneda debe ser igual a 19000000 [0m[0m

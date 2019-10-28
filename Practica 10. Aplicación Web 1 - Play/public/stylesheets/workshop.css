@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contenedorUser
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #487b68;
+    height: 100vh;
+}
+
+.userForm{
+    border: 2px solid rgb(239, 240, 248, 0.9);
+    padding: 3em;
+    background: #f1e8e0;
+    border-radius: 10px;
+}
+
+.userForm ul li{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.userForm ul li label{
+    padding-right: 2em;
+    font-size: 1.5em;
+}
+
+.userForm ul li input{
+    text-align: center;
+    padding: 0.5em 0em;
+    border: none;
+    border-bottom: 1px solid rgb(131, 127, 127);    
+    border-radius: 5px;
+    transition: all 0.5s;
+    color: #000000;
+    font-size: 1.5em;
+}
+
+dl dt, dl dd.info
+{
+    display: none;
+}
+
+.userForm ul li#botonSubmit input{
+    padding: 1em 5em;
+    border-radius: 1em; 
+    background: #1e382b;
+    color: white;
+}
+
+.userForm ul li#botonSubmit{
+    justify-content: center;
+}

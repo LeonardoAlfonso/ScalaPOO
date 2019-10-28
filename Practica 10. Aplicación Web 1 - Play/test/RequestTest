@@ -1,0 +1,9 @@
+POST http://localhost:9000
+content-type: application/json
+
+{
+    "title": "Principito",
+    "autor": "Anónimo"
+}
+
+GET http://localhost:9000

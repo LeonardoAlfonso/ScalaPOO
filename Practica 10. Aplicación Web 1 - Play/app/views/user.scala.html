@@ -1,0 +1,28 @@
+@(logForm: Form[userForm.UserTemplate])(implicit request: MessagesRequestHeader)
+@import helper._ 
+
+@mainApp{
+    <div class="contenedorUser">
+            @helper.form(action = routes.UserController.save(), 'class -> "userForm") {
+                <ul>
+                    <li>
+                        <label>UserName</label>
+                        @inputText(logForm("nombre"), 'placeholder -> "Nombre")
+                    </li>
+                    <li>
+                        <label>Edad</label>
+                        @inputText(logForm("edad"), 'placeholder -> "Edad")
+                    </li>
+                    <li>
+                        <label>Rol</label>
+                        @inputText(logForm("rol"), 'placeholder -> "Rol")
+                    </li>
+
+                    <li id="botonSubmit">
+                        <input type="submit" value="Registrar">
+                    </li>
+                </ul>
+            }
+    </div>
+
+}

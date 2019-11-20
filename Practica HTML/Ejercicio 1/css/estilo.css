@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova&display=swap');
+
+*, body
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+#ContenedorPrincipal
+{
+    height: 100vh;
+    width: 100%;
+    background-color: salmon;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Caja
+{
+    height: 300px;
+    width: 300px;
+    background-color: springgreen;
+    border: 1px solid black;
+}

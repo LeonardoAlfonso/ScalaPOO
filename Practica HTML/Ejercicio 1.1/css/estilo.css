@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova&display=swap');
+
+*, body
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+#ContenedorPrincipal
+{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(188, 227, 243);
+    border: 5px solid rgb(93, 45, 253);
+    margin-left: 10px;
+}
+
+#Texto1
+{
+    font-size: 1.2em;
+    color: rgb(144, 102, 34);
+    letter-spacing: 0.2em;
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 800;
+}

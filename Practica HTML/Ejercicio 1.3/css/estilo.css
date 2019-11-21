@@ -5,14 +5,13 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
-    list-style: none;
 }
 
 #ContenedorPrincipal
 {
     height: 100vh;
     width: 100%;
-    background-color: rgb(231, 229, 229);
+    background-color: salmon;
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
@@ -22,29 +21,8 @@
 {
     height: 150px;
     width: 100%;
-    background-color: rgb(21, 29, 25);
+    background-color: rgb(158, 240, 199);
     display: flex;
     align-items: center;
     justify-content: space-around;
-}
-
-.EstilosMenu
-{
-    font-family: 'Ibarra Real Nova', serif;
-    color: #FFFFFF;
-    font-size: 1.7em;
-}
-
-.Caja li i
-{
-    color: #FFFFFF;
-    margin-right: 1em;
-}
-
-.Caja li
-{
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    /* background-color: teal; */
 }
